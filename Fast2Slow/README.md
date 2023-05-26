@@ -27,4 +27,13 @@
 
 圖片來源 ： https://blog.csdn.net/SummerXRT/article/details/118874138
 
+
+q1進行打一拍
+
+q2為打第二拍
+
+q3為打第三拍
+
+需要打到第三拍是為了做邊沿檢測，若使用q1、q2進行邊沿檢測會有問題，q1發生亞穩態幾率太大
+
 ![image](https://github.com/aa389393/Verilog_example/assets/64916523/18121d1d-9342-4fc3-9fe9-ba929e7bca76)

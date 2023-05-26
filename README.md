@@ -2,6 +2,8 @@
 
 Use to record some verilog project
 
+刷題網站 ： https://www.nowcoder.com/exam/oj?tab=Verilog%E7%AF%87&topicId=302&fromPut=pc_zh_s_1540795715
+
 
 <details>
   <summary>Project</summary>

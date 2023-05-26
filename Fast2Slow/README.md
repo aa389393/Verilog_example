@@ -3,6 +3,7 @@
 
 由於快時鐘訊號頻率變化快，可能導致滿時鐘無法採集到快時鐘的資料，此時需要利用脈衝同步器進行訊號傳輸
 
+題目鏈接：
 <a href = "https://www.nowcoder.com/practice/b7f37e6c55e24478aef4ec2d738bbf07?tpId=302&tqId=5000594&ru=/exam/oj&qru=/ta/verilog-advanced/question-ranking&sourceUrl=%2Fexam%2Foj%3Ftab%3DVerilog%25E7%25AF%2587%26topicId%3D302%26fromPut%3Dpc_zh_s_1540795715">VL49 脉冲同步电路</a>
 
 

@@ -20,4 +20,8 @@
 
 ## 模擬結果
 
+![image](https://github.com/aa389393/Verilog_example/assets/64916523/36849dcf-e618-4dfb-b903-54798cef8f50)
+
+圖片來源 ： https://blog.csdn.net/SummerXRT/article/details/118874138
+
 ![image](https://github.com/aa389393/Verilog_example/assets/64916523/18121d1d-9342-4fc3-9fe9-ba929e7bca76)

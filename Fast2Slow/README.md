@@ -6,6 +6,8 @@
 ## 時序圖
 
 ![image](https://github.com/aa389393/Verilog_example/assets/64916523/88754c1c-65dd-4bd0-9faf-ba89c8808358)
+
+
 圖片來源 ： https://blog.csdn.net/SummerXRT/article/details/118874138
 
 

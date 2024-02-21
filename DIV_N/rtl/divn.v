@@ -1,7 +1,7 @@
 module divn
 #(
 	parameter	width = 3,
-	parameter	N	  = 5
+	parameter	N     = 5
 )
 (
 	input		sclk,
@@ -11,10 +11,10 @@ module divn
 
 reg		[width -1 : 0]	cnt_p;
 reg		[width -1 : 0]	cnt_n;
-reg						clk_p;
-reg						clk_n;
+reg				clk_p;
+reg				clk_n;
 
-assign o_clk = clk_p | clk_n;
+assign o_clk = (N == 1) ? sclk : (N[0]) ? (clk_p | clk_n) : clk_p;
 
 always@(posedge sclk or negedge rst_n)begin
 	if(!rst_n)

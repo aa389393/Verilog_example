@@ -7,5 +7,5 @@ parameter width //cnt_p、cnt_n的大小。取決於N
 ```
 
 ## simulation
-![模擬結果](image-1.png)
-![alt text](image-2.png)
+![模擬結果](sim-1.png)
+![alt text](sim-2.png)
